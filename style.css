@@ -1,0 +1,5 @@
+/* Define a fonte Inter para todo o corpo da página */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f4f8; /* Cor de fundo suave */
+}
